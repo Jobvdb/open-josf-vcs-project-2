@@ -2,7 +2,7 @@
   "steps" : null,
   "testStepGroups" : [ {
     "groupType" : 0,
-    "groupName" : "New descriptive group",
+    "groupName" : "New descriptive group test2",
     "testSteps" : [ {
       "version" : null,
       "result" : null,
